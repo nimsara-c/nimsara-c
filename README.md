@@ -1,10 +1,10 @@
 # `Hii there👋`
 
-- 👋 I’m *Nimsara Chamindu* in Account `realdev04`
-- 👀 I’m interested in `Technology`, `Programming`, `Robotics` and also `Motor Mechanics`
-- 🌱 I’m currently learning all the Things, that I can Learn
+- 👋 I’m *Nimsara Chamindu*
+- 👀 I’m interested in `Programming`, `Robotics`, `AI` and also `Motor Mechanics`
+- 🌱 I’m currently learning all the Things, that I can
 - 💞️ I’m looking to collaborate mainly on `C/C++` Projects and also `Robotics` Projects
-- 📫 You can **reach me** through my mail -> *nimsarachamidhu@gmail.com*, and also on my instagram -> *https://www.instagram.com/_nimsara.chamindu_/*
+- 📫 You can **reach me** through my mail -> *nimsarachamidhu@gmail.com*, and also on my instagram -> *https://www.instagram.com/nimsara.c_/*
 
 ## Programming Languages I Use
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
