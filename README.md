@@ -3,7 +3,7 @@
 - 👋 I’m *Nimsara Chamindu*
 - 👀 I’m interested in `Programming`, `Robotics`, `AI` and also `Motor Mechanics`
 - 🌱 I’m currently learning all the Things, that I can
-- 💞️ I’m looking to collaborate mainly on `C/C++` Projects and also `Robotics` Projects
+- 💞️ I’m looking to collaborate mainly on `Web` and `C/C++` Projects and also `Robotics` Projects
 - 📫 You can **reach me** through my mail -> *nimsarachamidhu@gmail.com*, and also on my instagram -> *https://www.instagram.com/nimsara.c_/*
 
 ## Programming Languages I Use
@@ -32,17 +32,17 @@
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nimsara.chamindu_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nimsara.c_)
 
 ## Website
   #### Go and See My Website
-  https://realdev04.github.io
+  https://nimsara-c.github.io
 
 ### Profile Views <br>
-  ![](https://komarev.com/ghpvc/?username=realdev04)
+  ![](https://komarev.com/ghpvc/?username=nimsara-c)
   
 ### Github Status
-[![realdev04's GitHub stats](https://github-readme-stats.vercel.app/api?username=realdev04&show_icons=true)](https://github.com/realdev04/github-readme-stats)
+[![realdev04's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsara-c&show_icons=true)](https://github.com/nimsara-c/github-readme-stats)
 
 <!---
 realdev04/realdev04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
