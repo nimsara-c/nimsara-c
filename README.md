@@ -42,17 +42,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nimsara.c_)
 
-## Website
-  #### Go and See My Website
-  https://nimsara-c.github.io
-
 ### Profile Views <br>
   ![](https://komarev.com/ghpvc/?username=nimsara-c)
   
 ### Github Status
-[![realdev04's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsara-c&show_icons=true)](https://github.com/nimsara-c/github-readme-stats)
+[![nimsara-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimsara-c&show_icons=true)](https://github.com/nimsara-c/github-readme-stats)
 
 <!---
-realdev04/realdev04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nimsara-c/nimsara-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
